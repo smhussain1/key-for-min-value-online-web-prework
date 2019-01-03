@@ -9,9 +9,9 @@ def key_for_min_value(h)
       lowest_value = value
       lowest_key = key 
     end
-    lowest_key
+    #lowest_key
     end
-    
+    lowest_key
 end 
 
 #test if the lowest_value is nil, or if the value is less than the lowest_value
