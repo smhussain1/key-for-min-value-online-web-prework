@@ -3,7 +3,8 @@
 
 def key_for_min_value(h)
   h.each do |key, value|
+    
     puts h
-    smallest_vale_key = 
+    smallest_value_key = key 
 end
 end 
