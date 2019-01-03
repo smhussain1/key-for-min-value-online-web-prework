@@ -11,7 +11,7 @@ def key_for_min_value(h)
     end
     lowest_key
     end
-    h 
+    
 end 
 
 #test if the lowest_value is nil, or if the value is less than the lowest_value
